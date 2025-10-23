@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Tourney&center=true&color=2CFF00&size=30&width=300&height=45&lines=Dídac%20Fernández"/>
 </p>
 
-<html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,8 +22,18 @@
     }
   </style>
 </head>
+
 <body>
   <h1>Texto con la fuente Bitcount Grid Single</h1>
   <p>Este párrafo también usa la fuente importada desde Google Fonts.</p>
 </body>
-</html>
+body {
+  font-family: "Bitcount Grid Single", sans-serif;
+}
+h1 {
+  font-weight: 800;
+}
+p {
+  font-weight: 300;
+}
+
