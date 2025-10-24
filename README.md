@@ -64,10 +64,10 @@
     GitHub Stats:
 </h3>
 <div style="display: flex; justify-content: space-between;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=difermon09&show_icons=true&hide_border=true&locale=en&theme=gruvbox" width="47%">
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=difermon09&theme=gruvbox&hide_border=true" width="50%">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=difermon09&show_icons=true&hide_border=true&locale=en&theme=gruvbox" width="48%">
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=difermon09&theme=gruvbox&hide_border=true" width="51%">
 </div>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 <h3 align="left">
     <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> 
     For more information contact me via:
