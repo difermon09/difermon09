@@ -15,7 +15,7 @@
     <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> 
     About me:
 </h3>
-<img align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+<img align="right" height="190" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 <ul>
     <li>📖 I’m currently studying Mechatronics Engineering at the University of Vic (UVic).</li>
     <li>🤖 I compete on my university’s robotics team, <i>Garris Metàl·lics</i>.</li>
