@@ -65,7 +65,7 @@
 </h3>
 <div style="display: flex; justify-content: space-between;">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=difermon09&show_icons=true&hide_border=true&locale=en&theme=gruvbox" width="46%">
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=difermon09&theme=gruvbox&hide_border=true" width="47%">
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=difermon09&theme=gruvbox&hide_border=true" width="47.4%">
 </div>
 <br><br><br><br><br><br><br><br>
 <h3 align="left">
