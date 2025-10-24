@@ -17,7 +17,7 @@
 </h3>
 <img align="right" height="190" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 <ul>
-    <li>📖 I’m currently studying Mechatronics Engineering at the University of Vic (UVic).</li>
+    <li>📖 I’m currently studying Mechatronics Engineering at the University of Vic (UVic), in Spain</li>
     <li>🤖 I compete on my university’s robotics team, 
         <i><a href="https://github.com/Garrins-Metal-lics" target="_blank">Garris Metàl·lics</a></i>.
     </li>
