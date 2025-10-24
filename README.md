@@ -4,11 +4,11 @@
 </p>
 
 ```
-  _____     ____                                        _____     ____                                        _____     ____ 
- /      \  |  o |                                      /      \  |  o |                                      /      \  |  o |
-|        |/ ___\|                                     |        |/ ___\|                                     |        |/ ___\|
-|_________/                                           |_________/                                           |_________/
-|_|_| |_|_|                             __ __ __ __   |_|_| |_|_|                             __ __ __ __   |_|_| |_|_|
+  _____     ____                                       _____     ____                                       _____     ____ 
+ /      \  |  o |                                     /      \  |  o |                                     /      \  |  o |
+|        |/ ___\|                                    |        |/ ___\|                                    |        |/ ___\|
+|_________/                                          |_________/                                          |_________/
+|_|_| |_|_|                            __ __ __ __   |_|_| |_|_|                            __ __ __ __   |_|_| |_|_|
 ```
 
 <h3>
@@ -62,11 +62,11 @@
     GitHub Stats:
 </h3>
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=difermon09&show_icons=true&hide_border=true&locale=en&theme=gruvbox">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=difermon09&theme=gruvbox&hide_border=true">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=difermon09&show_icons=true&hide_border=true&locale=en&theme=gruvbox" width="45%">
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=difermon09&theme=gruvbox&hide_border=true" width="48%">
 </div>
-
-<h3>
+<br><br><br><br><br><br><br><br>
+<h3 align="left">
     <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> 
     For more information contact me via:
 </h3>
@@ -86,6 +86,6 @@
     :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
     &copy; 2025 Dídac Fernández
     <h3>
-        <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
+        <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="80%"/>
     </h3>
 </div>
