@@ -28,8 +28,8 @@
     </ul>
     </li>
     <li>🤝 I’m looking to collaborate on projects related to R&D, IoT, AI, and robotics.</li>
-    <li>💬 Ask me about anything — I’ll be happy to answer!</li>
     <li>❤️ I love taking on big challenges, learning new things, and building creative and useful solutions.</li>
+    <li>💬 Ask me about anything — I’ll be happy to answer!</li>
 </ul>
 
 <h3>
