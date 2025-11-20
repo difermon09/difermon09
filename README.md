@@ -77,7 +77,7 @@
     <a href="mailto:didac.fernandez.monedero@gmail.com" >
         <img align="center" alt="difermon09 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
     </a> &nbsp;&nbsp;
-    <a href="https://www.linkedin.com" target="_blank">
+    <a href="https://www.linkedin.com/in/dídac-fernández-08a83b394" target="_blank">
         <img align="center" alt="difermon09 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
     </a> &nbsp;&nbsp;
     <a href="https://profile-summary-for-github.herokuapp.com/user/difermon09" target="_blank">
