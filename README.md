@@ -24,6 +24,7 @@
     <li>🌱 I’m learning:
     <ul>
       <li>SOLID principles</li>
+      <li>MuJoCo Simulation</li>
       <li>ROS2</li>
       <li>C & C++</li>
       <li>TIA Portal (PLC)</li>
