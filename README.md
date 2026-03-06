@@ -60,7 +60,7 @@
     <img src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </span>
 
-<h3>
+<!-- <h3>
     <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px></picture> 
     GitHub Stats:
 </h3>
@@ -68,7 +68,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=difermon09&show_icons=true&hide_border=true&locale=en&theme=gruvbox" width="46%">
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=difermon09&theme=gruvbox&hide_border=true" width="47.4%">
 </div>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br> -->
 <h3 align="left">
     <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> 
     For more information contact me via:
