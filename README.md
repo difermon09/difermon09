@@ -88,7 +88,7 @@
 
 <div align="center">
     :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-    &copy; 2025 Dídac Fernández
+    &copy; 2026 Dídac Fernández
     <h3>
         <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="80%"/>
     </h3>
