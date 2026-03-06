@@ -19,7 +19,7 @@
 <ul>
     <li>📖 I’m currently studying Mechatronics Engineering at the University of Vic (UVic), in Spain</li>
     <li>🐗 I compete on my university’s robotics team, 
-        <i><a href="https://github.com/Garrins-Metal-lics" target="_blank">Garris Metàl·lics</a></i>.
+        <i><a href="https://github.com/Garrins-Metal-lics" target="_blank">Garrins Metàl·lics</a></i>.
     </li>
     <li>🌱 I’m learning:
     <ul>
