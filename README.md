@@ -83,7 +83,7 @@
     </a> &nbsp;&nbsp;
     <a href="https://profile-summary-for-github.herokuapp.com/user/difermon09" target="_blank">
         <img align="center" alt="difermon09 | GitHub" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" />
-    </a> &nbsp;&nbsp;
+    </a> 
 </p> 
 
 <div align="center">
