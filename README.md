@@ -12,16 +12,16 @@
 ```
 
 <h3>
-    <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> 
+    <picture><img src = "./assets/gif/computer_boy.gif" width = 30px></picture> 
     About me:
 </h3>
-<img align="right" height="190" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+<img align="right" height="190" src="./assets/gif/computer.gif"/>
 <ul>
     <li>📖 4th-year Mechatronics Engineering student at the University of Vic (UVic-UCC), Spain.</li>
     <li>🤖 Focused on robotics software (<b>ROS 2, C++, Python</b>) and SITL simulation (<b>Gazebo, MuJoCo</b>).</li>
     <li>🚜 Ex-Robotics Software Intern at <b>Agrin'pulse</b> (SITL simulation &amp; embedded control).</li>
-    <li>🐗 3 years on my university’s robotics team, 
-        <i><a href="https://github.com/Garrins-Metal-lics" target="_blank">Garrins Metàl·lics</a></i> (3rd place at Eurobot Spain 2026).
+    <li>🐗 3 years on  
+        <i><a href="https://github.com/Garrins-Metal-lics" target="_blank">my university’s robotics team</a></i> (3rd place at Eurobot Spain 2026).
     </li>
     <li>🌱 Currently exploring:
     <ul>
@@ -37,7 +37,7 @@
 </ul>
 
 <h3>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
+    <img src="./assets/gif/code.gif" width ="30">
     Skills:
 </h3>
 <h4>📋 Languages, ♾️ DevOps, 💾 Databases & 🖼️ Others:</h4>
@@ -71,18 +71,18 @@
 </div>
 <br><br><br><br><br><br><br><br> -->
 <h3 align="left">
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> 
+    <img src='./assets/gif/handshake.gif' width="30px"> 
     For more information contact me via:
 </h3>
 <p align="center">
     <a href="mailto:didac.fernandez.monedero@gmail.com" >
-        <img align="center" alt="difermon09 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+        <img align="center" alt="difermon09 | Gmail" width="26px" src="./assets/logos/gmail.svg" />
     </a> &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/didacfernandezmonedero" target="_blank">
-        <img align="center" alt="difermon09 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+        <img align="center" alt="difermon09 | Linkedin" width="24px" src="./assets/logos/linkedin.svg" />
     </a> &nbsp;&nbsp;
     <a href="https://profile-summary-for-github.herokuapp.com/user/difermon09" target="_blank">
-        <img align="center" alt="difermon09 | GitHub" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" />
+        <img align="center" alt="difermon09 | GitHub" width="26px" src="./assets/logos/github.svg" />
     </a> 
 </p> 
 
@@ -90,6 +90,6 @@
     :heart_eyes: Thanks for visiting my profile! Have a nice day! :wink: <br/>
     &copy; 2026 Dídac Fernández
     <h3>
-        <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="80%"/>
+        <img src="./assets/gif/dino.gif" width="80%"/>
     </h3>
 </div>
