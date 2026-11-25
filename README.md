@@ -17,23 +17,23 @@
 </h3>
 <img align="right" height="190" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 <ul>
-    <li>📖 I’m currently studying Mechatronics Engineering at the University of Vic (UVic), in Spain</li>
-    <li>🐗 I compete on my university’s robotics team, 
-        <i><a href="https://github.com/Garrins-Metal-lics" target="_blank">Garrins Metàl·lics</a></i>.
+    <li>📖 4th-year Mechatronics Engineering student at the University of Vic (UVic-UCC), Spain.</li>
+    <li>🤖 Focused on robotics software (<b>ROS 2, C++, Python</b>) and SITL simulation (<b>Gazebo, MuJoCo, Nav2</b>).</li>
+    <li>🚜 Ex-Robotics Software Intern at <b>Agrin'pulse</b> (autonomous navigation simulation &amp; embedded control).</li>
+    <li>🐗 3 years on my university’s robotics team, 
+        <i><a href="https://github.com/Garrins-Metal-lics" target="_blank">Garrins Metàl·lics</a></i> (3rd place at Eurobot Spain 2026).
     </li>
-    <li>🌱 I’m learning:
+    <li>🌱 Currently exploring:
     <ul>
-      <li>SOLID principles</li>
-      <li>MuJoCo Simulation</li>
-      <li>ROS2</li>
-      <li>C & C++</li>
-      <li>TIA Portal (PLC)</li>
-      <li>Jupyter Notebook</li>
+      <li>Behavior Trees &amp; multi-robot systems (Bachelor's Thesis starting Jan 2027)</li>
+      <li>Machine Learning &amp; Reinforcement Learning</li>
+      <li>PCB Design (Altium)</li>
     </ul>
     </li>
-    <li>🤝 I’m looking to collaborate on projects related to R&D, IoT, AI, and robotics.</li>
+    <li>🤝 Looking for a <b>Summer 2027 R&amp;D / robotics internship</b> and open to collaborating on robotics projects.</li>
+    <li>🔒 <i>Note: Most of my recent work (Agrin'pulse &amp; Eurobot) lives in private repositories due to confidentiality.</i></li>
     <li>❤️ I love taking on big challenges, learning new things, and building creative and useful solutions.</li>
-    <li>💬 Ask me about anything — I’ll be happy to answer!</li>
+    <li>💬 Feel free to reach out — always happy to talk robotics!</li>
 </ul>
 
 <h3>
@@ -78,7 +78,7 @@
     <a href="mailto:didac.fernandez.monedero@gmail.com" >
         <img align="center" alt="difermon09 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
     </a> &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/dídac-fernández-08a83b394" target="_blank">
+    <a href="https://www.linkedin.com/in/didacfernandezmonedero" target="_blank">
         <img align="center" alt="difermon09 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
     </a> &nbsp;&nbsp;
     <a href="https://profile-summary-for-github.herokuapp.com/user/difermon09" target="_blank">
@@ -87,7 +87,7 @@
 </p> 
 
 <div align="center">
-    :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+    :heart_eyes: Thanks for visiting my profile! Have a nice day! :wink: <br/>
     &copy; 2026 Dídac Fernández
     <h3>
         <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="80%"/>
