@@ -18,7 +18,7 @@
 <img align="right" height="190" src="./assets/gif/computer.gif"/>
 <ul>
     <li>📖 4th-year Mechatronics Engineering student at the University of Vic (UVic-UCC), Spain.</li>
-    <li>🤖 Focused on robotics software (<b>ROS 2, C++, Python</b>) and SITL simulation (<b>Gazebo, MuJoCo</b>).</li>
+    <li>🤖 Focused on robotics software (<b>ROS 2, C++, Python<, Gazebo, MuJoCo</b>).</li>
     <li>🚜 Ex-Robotics Software Intern at <b>Agrin'pulse</b> (SITL simulation &amp; embedded control).</li>
     <li>🐗 3 years on  
         <i><a href="https://github.com/Garrins-Metal-lics" target="_blank">my university’s robotics team</a></i> (3rd place at Eurobot Spain 2026).
